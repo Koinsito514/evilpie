@@ -10,7 +10,7 @@ export default () => {
         <>
             <Header />
             <div className="box-center-flex">
-                <img className="home-logo" src="https://raw.githubusercontent.com/J4c5/evilpie/main/evilpie.svg" alt="" />
+                <img className="home-logo" src="https://raw.githubusercontent.com/J4c5/evilpie/87d3b4c8a04a29d16e73bbe1b834c1f9b4722c8f/src/assets/evilpie.svg?token=GHSAT0AAAAAABSJTQGZHJKTGHH7FVIAANV2YRNJJ3Q" alt="" />
                 <h1 className="home-h1">EvilPie</h1>
                 <p className="home-p">Modern Android Hacking Tooling</p>
             </div>
