@@ -3,7 +3,6 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
-    "start": "npx run vite --port $PORT",
     "dev": "npx run  vite --host",
     "build": "npx tsc && npx vite build",
     "preview": "npx vite preview"
