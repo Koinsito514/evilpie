@@ -1,1 +1,0 @@
-web: npm i vite && npx vite build
